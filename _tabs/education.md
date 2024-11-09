@@ -2,28 +2,26 @@
 icon: fa-solid fa-graduation-cap
 order: 4
 ---
-## Education
-
 <table>
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h3>New York University</h3>
       <p><strong>Master of Science in Computer Science</strong> - [Sept 2024 - May 2026]</p>
-      <p>**Relevant Coursework:** Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence</p>
+      <p><b>Relevant Coursework:</b> Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence</p>
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="/assets/education/nyu_tandon.jpg" alt="NYU Tandon" width="100"/>
     </td>
   </tr>
 </table>
 <table>
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h3>Indian Institute of Technology (Indian School of Mines), Dhanbad</h3>
       <p><strong>Bachelor of Technology in Electronics & Communication Engineering</strong> - [Dec 2020 - May 2024]</p>
-      <p>**Relevant Coursework:** Probability & Statistics, Data Mining, Pattern Recognition, Deep Learning</p>
+      <p><b>Relevant Coursework:</b> Machine Learning, Deep Learning, Principles of Artificial Intelligence, Probability & Statistics, Data Mining, Pattern Recognition, Digital Image Processing, Data Structures & Algorithms</p>
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="/assets/education/iitism.jpg" alt="IIT-ISM" width="100"/>
     </td>
   </tr>

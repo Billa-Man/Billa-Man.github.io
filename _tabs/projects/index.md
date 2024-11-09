@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "My Project Portfolio"
+title: "Projects"
+icon: fa-solid fa-hammer
+order: 2
 ---
 
 # Welcome to My Project Portfolio

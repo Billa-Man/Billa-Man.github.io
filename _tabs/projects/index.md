@@ -9,8 +9,8 @@ order: 1
 
 Explore projects by category:
 
-- [Computer Vision](/_tabs/projects/cv/index.md)
-- [Natural Language Processing](/_tabs/projects/nlp/index.md)
-- [Large Language Models](/_tabs/projects/llm/index.md)
+- Computer Vision
+- Natural Language Processing
+- Large Language Models
 
 You can find detailed descriptions and documentation for each category of projects.

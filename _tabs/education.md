@@ -12,7 +12,7 @@ order: 4
       <p>**Relevant Coursework:** Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence</p>
     </td>
     <td width="30%">
-      <img src="files/education/nyu_tandon.jpg" alt="NYU Tandon" width="100"/>
+      <img src="/files/education/nyu_tandon.jpg" alt="NYU Tandon" width="100"/>
     </td>
   </tr>
 </table>
@@ -24,7 +24,7 @@ order: 4
       <p>**Relevant Coursework:** Probability & Statistics, Data Mining, Pattern Recognition, Deep Learning</p>
     </td>
     <td width="30%">
-      <img src="files/education/iitism.jpg" alt="IIT-ISM" width="100"/>
+      <img src="/files/education/iitism.jpg" alt="IIT-ISM" width="100"/>
     </td>
   </tr>
 </table>

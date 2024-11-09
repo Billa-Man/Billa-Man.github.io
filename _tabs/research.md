@@ -1,4 +1,4 @@
 ---
-icon: fa-solid fa-files-lines
+icon: fa-solid fa-file-lines
 order: 3
 ---

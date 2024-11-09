@@ -31,9 +31,9 @@ order: 4
 
 ## Coursera Certifications
 
-- [Large Language Model Operations Specialization](files\education\certifications\llmops.pdf) - Duke University, 2024
-- [Machine Learning Operations Specialization](files\education\certifications\mlops.pdf) - Duke University, 2024
-- [TensorFlow Developer Professional Certificate](/files/education/certifications/tensorflow_developer.pdf) - DeepLearning.AI, 2022
-- [Deep Learning Specialization](files\education\certifications\deep_learning.pdf) - DeepLearning.AI, 2022
-- [Python 3 Programming Specialization](files\education\certifications\python3.pdf) - University of Michigan, 2021
-- [Machine Learning](\files\education\certifications\machine_learning.pdf) - Stanford University, 2021
+- [Large Language Model Operations Specialization](/assets/education/certifications/llmops.pdf) - Duke University, 2024
+- [Machine Learning Operations Specialization](/assets/education/certifications/mlops.pdf) - Duke University, 2024
+- [TensorFlow Developer Professional Certificate](/assets/education/certifications/tensorflow_developer.pdf) - DeepLearning.AI, 2022
+- [Deep Learning Specialization](/assets/education/certifications/deep_learning.pdf) - DeepLearning.AI, 2022
+- [Python 3 Programming Specialization](/assets/education/certifications/python3.pdf) - University of Michigan, 2021
+- [Machine Learning](/assets/education/certifications/machine_learning.pdf) - Stanford University, 2021

@@ -20,8 +20,7 @@ order: 4
       <h3>Indian Institute of Technology (Indian School of Mines), Dhanbad</h3>
       <p><strong>Bachelor of Technology in Electronics & Communication Engineering</strong> - [Dec 2020 - May 2024]</p>
       <p><b>Relevant Coursework:</b> Machine Learning, Deep Learning, Principles of Artificial Intelligence,<br>
-      Probability & Statistics, Data Mining, Pattern Recognition,<br>
-      Digital Image Processing, Data Structures & Algorithms</p>
+      Probability & Statistics, Data Mining, Pattern Recognition, Digital Image Processing</p>
     </td>
     <td width="30%">
       <img src="/assets/education/iitism.jpg" alt="IIT-ISM" width="100"/>
@@ -32,8 +31,8 @@ order: 4
 
 ## Coursera Certifications
 
-- [Large Language Model Operations Specialization](/assets/education/certifications/llmops.pdf) - Duke University, 2024
-- [Machine Learning Operations Specialization](/assets/education/certifications/mlops.pdf) - Duke University, 2024
+- [Large Language Model Operations (LLMOps) Specialization](/assets/education/certifications/llmops.pdf) - Duke University, 2024
+- [Machine Learning Operations (MLOps) Specialization](/assets/education/certifications/mlops.pdf) - Duke University, 2024
 - [TensorFlow Developer Professional Certificate](/assets/education/certifications/tensorflow_developer.pdf) - DeepLearning.AI, 2022
 - [Deep Learning Specialization](/assets/education/certifications/deep_learning.pdf) - DeepLearning.AI, 2022
 - [Python 3 Programming Specialization](/assets/education/certifications/python3.pdf) - University of Michigan, 2021

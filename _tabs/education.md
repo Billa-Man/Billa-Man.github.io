@@ -2,31 +2,24 @@
 icon: fa-solid fa-graduation-cap
 order: 4
 ---
-<table>
-  <tr>
-    <td width="70%">
+
+<div class="project-card">
+  <div class="project-card-content">
       <h3>New York University</h3>
       <p><strong>Master of Science in Computer Science</strong> - [Sept 2024 - May 2026]</p>
       <p><b>Relevant Coursework:</b> Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence</p>
-    </td>
-    <td width="30%">
-      <img src="/assets/education/nyu_tandon.jpg" alt="NYU Tandon" width="100"/>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="70%">
+  </div>
+  <img src="/assets/education/nyu_tandon.jpg" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
       <h3>Indian Institute of Technology (Indian School of Mines), Dhanbad</h3>
       <p><strong>Bachelor of Technology in Electronics & Communication Engineering</strong> - [Dec 2020 - May 2024]</p>
-      <p><b>Relevant Coursework:</b> Machine Learning, Deep Learning, Principles of Artificial Intelligence,<br>
-      Probability & Statistics, Data Mining, Pattern Recognition, Digital Image Processing</p>
-    </td>
-    <td width="30%">
-      <img src="/assets/education/iitism.jpg" alt="IIT-ISM" width="100"/>
-    </td>
-  </tr>
-</table>
+      <p><b>Relevant Coursework:</b> Machine Learning, Deep Learning, Principles of Artificial Intelligence, Probability & Statistics, Data Mining, Pattern Recognition, Digital Image Processing</p>
+  </div>
+  <img src="/assets/education/iitism.jpg" class="project-card-img" />
+</div>
 
 
 ## Coursera Certifications

@@ -9,7 +9,7 @@ order: 4
       <p><strong>Master of Science in Computer Science</strong> - [Sept 2024 - May 2026]</p>
       <p><b>Relevant Coursework:</b> Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence</p>
   </div>
-  <img src="/assets/education/nyu_tandon.jpg" class="project-card-img" />
+  <img src="/assets/education/nyu_tandon.jpg" alt="nyu-tandon" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -18,7 +18,7 @@ order: 4
       <p><strong>Bachelor of Technology in Electronics & Communication Engineering</strong> - [Dec 2020 - May 2024]</p>
       <p><b>Relevant Coursework:</b> Machine Learning, Deep Learning, Principles of Artificial Intelligence, Probability & Statistics, Data Mining, Pattern Recognition, Digital Image Processing</p>
   </div>
-  <img src="/assets/education/iitism.jpg" class="project-card-img" />
+  <img src="/assets/education/iitism.jpg" alt="iit-ism" class="project-card-img" />
 </div>
 
 

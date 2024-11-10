@@ -24,7 +24,7 @@ You can find detailed descriptions and documentation for each category of projec
       <p>Provided a comprehensive solution the problem of harassment against women in public space. The project was discussed during a session in the Rajya Sabha.</p>
       <p><a href="https://github.com/Tarun-108/HerWay">View Project</a></p>
   </div>
-  <img src="/assets/projects/herway.png" class="project-card-img" />
+  <img src="/assets/projects/herway.png" alt="her-way" class="project-card-img" />
 </div>
 
 

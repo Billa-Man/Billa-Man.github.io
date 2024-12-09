@@ -72,3 +72,6 @@ layout: page
 <!-- GitHub Stats -->
 <p><strong>Top Languages:</strong></p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Billa-Man&amp;layout=compact' alt='Top Languages'/>
+
+<p><strong>GitHub stats:</strong></p>
+<img src='https://github-readme-stats.vercel.app/api?username=Billa-Man&hide=contribs&theme=tokyonight&show_icons=True' alt='github_stats'/>

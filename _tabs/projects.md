@@ -18,9 +18,9 @@ order: 1
         <li>Fine-tuned LLaMa 3.2 3b by implementing LoRA (Low-Rank Adaptation) on a custom preference dataset generated using chatGPT for ROS2 navigation-related queries.</li>
         <li>Deployed a Gradio-based application with Huggingface Hub and Ollama integration for code generation and replanning instructions.</li>
       </ul>
-      <p><a href="billa-man/finetuned-rag-system-robotics">View Project</a></p>
+      <p><a href="https://huggingface.co/billa-man/finetuned-rag-system-robotics">View Project</a></p>
   </div>
-  <img src="assets/projects/rag.png" alt="rag" class="project-card-img" />
+  <img src="/assets/projects/rag.png" alt="rag" class="project-card-img" />
 </div>
 
 <div class="project-card">

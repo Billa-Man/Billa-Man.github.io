@@ -53,6 +53,21 @@ order: 1
       <img src="/assets/projects/devrev.png" alt="dev-rev" class="project-card-img" />
 </div>
 
+
+<div class="project-card">
+  <div class="project-card-content">
+      <h3>Implementing Models from scratch</h3>
+      <p><strong>Tech Stack:</strong> PyTorch</p>
+      <ul>
+        <li>Designed and trained a ViT model from scratch, comparing its performance to UNet and Fully Convolutional Network (FCN) (also written from scratch) on the Kaggle Ultrasound Nerve Segmentation dataset.</li>
+        <li>Standardized preprocessing and ensured consistent training parameters across models, analyzing computational trade-offs and segmentation accuracy.</li>
+        <li>Evaluated models using Intersection over Union (IoU), where UNet achieved the highest IoU (0.3129) and FCN demonstrated competitive accuracy (IoU: 0.3099), while highlighting areas for improvement in ViT (IoU: 0.2281).</li>
+      </ul>
+      <p><a href="https://github.com/Billa-Man/cs-gy-6923-final-project">View Project</a></p>
+  </div>
+      <img src="/assets/projects/three_models.png" alt="from-scratch" class="project-card-img" />
+</div>
+
 <!-- Explore projects by category:
 
 - [Computer Vision]({% link _pages/cv.md %})

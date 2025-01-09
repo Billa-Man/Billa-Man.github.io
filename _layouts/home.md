@@ -16,7 +16,7 @@ layout: page
 <h2>🤖 Some of my Projects</h2>
 <ul>
   <li><a href="https://github.com/Billa-Man/prompt2program">Prompt2Program</a>: An end-to-end RAG system for code generation.</li>
-  <li><a href="https://www.kaggle.com/code/sohithbandari/llm-prompt-recovery-llama-3-2-1b">LLM Prompt Recovery</a>: Recover the LLM prompt that was used to transform a given text.</li>
+  <li><a href="https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery">LLM Prompt Recovery</a>: Recover the LLM prompt that was used to transform a given text.</li>
 </ul>
 
 

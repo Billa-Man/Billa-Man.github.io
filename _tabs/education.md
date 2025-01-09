@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-graduation-cap
-order: 4
+order: 5
 ---
 
 <div class="project-card">

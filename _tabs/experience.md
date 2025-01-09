@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-user-tie
-order: 3
+order: 4
 ---
 
 <div class="project-card">

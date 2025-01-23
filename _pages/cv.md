@@ -5,6 +5,34 @@ title: "Computer Vision Projects"
 
 <div class="project-card">
   <div class="project-card-content">
+      <h3>Implementing Models from scratch</h3>
+      <p><strong>Tech Stack:</strong> PyTorch</p>
+      <ul>
+        <li>Designed and trained a ViT model from scratch, comparing its performance to UNet and Fully Convolutional Network (FCN) (also written from scratch) on the Kaggle Ultrasound Nerve Segmentation dataset.</li>
+        <li>Standardized preprocessing and ensured consistent training parameters across models, analyzing computational trade-offs and segmentation accuracy.</li>
+        <li>Evaluated models using Intersection over Union (IoU), where UNet achieved the highest IoU (0.3129) and FCN demonstrated competitive accuracy (IoU: 0.3099), while highlighting areas for improvement in ViT (IoU: 0.2281).</li>
+      </ul>
+      <p><a href="https://github.com/Billa-Man/cs-gy-6923-final-project">View Project</a></p>
+  </div>
+      <img src="/assets/projects/three_models.png" alt="from-scratch" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
+    <h3>HuBMAP - Hacking the Human Vasculature</h3>
+    <p><strong>Tech Stack:</strong> PyTorch, YOLO</p>
+    <ul>
+        <li>Segmented instances of micro-vascular structures from healthy human kidney tissue slides.</li>
+        <li>Utilised semi-supervised learning (SSL) for training a YOLOv8x model in instance segmentation with only 20% labeled data. Implemented self-training to utilise both labelled and unlabelled data, effectively optimizing model performance and utilising 56% of the data.</li>
+        <li>Achieved substantial enhancement in instance segmentation, raising overall <b>mAP50-95</b> score from 0.47 to a remarkable <b>0.593</b>.</li>
+      </ul>
+    <p><a href="https://github.com/Standby-Coder/InterIITTech11.0-DevRev-QA">View Project</a></p>
+  </div>
+  <img src="assets/jio.png" alt="Jio" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
     <h3>BirdCLEF - 2023</h3>
     <p><strong>Tech Stack:</strong> PyTorch</p>
       <ul>
@@ -31,16 +59,4 @@ title: "Computer Vision Projects"
 </div>
 
 
-<div class="project-card">
-  <div class="project-card-content">
-    <h3>HuBMAP - Hacking the Human Vasculature</h3>
-    <p><strong>Tech Stack:</strong> PyTorch, YOLO</p>
-    <ul>
-        <li>Segmented instances of micro-vascular structures from healthy human kidney tissue slides.</li>
-        <li>Utilised semi-supervised learning (SSL) for training a YOLOv8x model in instance segmentation with only 20% labeled data. Implemented self-training to utilise both labelled and unlabelled data, effectively optimizing model performance and utilising 56% of the data.</li>
-        <li>Achieved substantial enhancement in instance segmentation, raising overall <b>mAP50-95</b> score from 0.47 to a remarkable <b>0.593</b>.</li>
-      </ul>
-    <p><a href="https://github.com/Standby-Coder/InterIITTech11.0-DevRev-QA">View Project</a></p>
-  </div>
-  <img src="assets/jio.png" alt="Jio" class="project-card-img" />
-</div>
+

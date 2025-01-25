@@ -15,7 +15,7 @@ title: "LLM Projects"
       </ul>
       <p><a href="https://github.com/Billa-Man/git-issue-bot">View Project</a></p>
   </div>
-  <img src="/assets/projects/herway.png" alt="her-way" class="project-card-img" />
+  <img src="/assets/projects/chatbot.png" alt="git-issue-bot" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -45,5 +45,5 @@ title: "LLM Projects"
       </ul>
       <p><a href="https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery/">View Project</a></p>
   </div>
-  <img src="/assets/projects/herway.png" alt="her-way" class="project-card-img"/>
+  <img src="/assets/projects/prompt_recovery.png" alt="prompt-recovery" class="project-card-img"/>
 </div>

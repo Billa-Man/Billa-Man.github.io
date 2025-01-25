@@ -9,10 +9,6 @@ I've been building some really cool deep learning models from the ground up! I'v
 
 - [VGG-16](https://github.com/Billa-Man/model-implementations-from-scratch/blob/main/vgg_16.py)
 - [VGG-19](https://github.com/Billa-Man/model-implementations-from-scratch/blob/main/vgg_19.py)
-- ResNet (18, 34, 50)
 - [FCN (8s, 16s, 32s)](https://github.com/Billa-Man/model-implementations-from-scratch/blob/main/fcn.py)
-- Fast R-CNN
-- Faster R-CNN
-- Mask R-CNN
 - [U-Net](https://github.com/Billa-Man/model-implementations-from-scratch/blob/main/unet.py)
 - [Vision Transformer](https://github.com/Billa-Man/model-implementations-from-scratch/blob/main/vit.py)

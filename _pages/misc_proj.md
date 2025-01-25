@@ -14,7 +14,7 @@ title: "Data Science Projects"
       </ul>
       <p><a href="https://www.kaggle.com/code/sohithbandari/xgboost-catboost-lightgbm-optuna">View Project</a></p>
   </div>
-  <img src="/assets/projects/herway.png" alt="her-way" class="project-card-img" />
+  <img src="/assets/projects/amex.png" alt="amex" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -28,6 +28,6 @@ title: "Data Science Projects"
         </ul>
       <p><a href="https://github.com/Tarun-108/HerWay">View Project</a></p>
   </div>
-  <img src="/assets/projects/herway.png" alt="her-way" class="project-card-img" />
+  <img src="/assets/projects/brazillian.png" alt="brazillian" class="project-card-img" />
 </div>
 

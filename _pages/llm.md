@@ -30,7 +30,7 @@ title: "LLM Projects"
       </ul>
       <p><a href="https://github.com/Billa-Man/prompt2program">View Project</a></p>
   </div>
-  <img src="/assets/projects/herway.png" alt="her-way" class="project-card-img" />
+  <img src="/assets/projects/p2p.png" alt="p2p" class="project-card-img" />
 </div>
 
 <div class="project-card">

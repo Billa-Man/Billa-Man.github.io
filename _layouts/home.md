@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h1>🙋‍♂️ Hi there, I'm Sohith Bandari!</h1>
-<p>I'm an LLM enthusiast from New York University, fascinated by the power of LLMs to transform AI-human interaction and eager to unravel how AI can master the complexities of human communication.</p>
+<p>I'm diving into research at NYU where I tinker with large language models (LLMs) and computer vision. Hoping to amp up how AI's chat and interact, I'm all about using deep learning to make these tech buddies better at conversation and interaction.</p>
 
 <h2>💫 About Me</h2>
 <ul>

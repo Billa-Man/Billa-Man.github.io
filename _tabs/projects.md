@@ -144,7 +144,7 @@ order: 1
   </details>
 
   <!-- Git Issue Bot (SWE) -->
-  <details class="project-row" data-category="swe">
+  <details class="project-row" data-category="ai">
     <summary class="project-row__summary">
       <img src="/assets/projects/git_issue_bot.png" alt="Git Issue Bot" class="project-row__image">
       <div class="project-row__header">

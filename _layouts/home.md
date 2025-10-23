@@ -26,10 +26,18 @@ layout: page
   </tr>
 </table>
 
+<br>
 
 <div align="center">
-   <a href="mailto:sohith.bandari@gmail.com">Email</a> | 
-   <a href="https://linkedin.com/in/sohithbandari">LinkedIn</a>
+  <a href="mailto:sohith.bandari@gmail.com" target="_blank" rel="noopener">
+    <i class="fa-solid fa-envelope"></i> Email
+  </a> |
+  <a href="https://linkedin.com/in/sohithbandari" target="_blank" rel="noopener">
+    <i class="fa-brands fa-linkedin"></i> LinkedIn
+  </a> |
+  <a href="https://billa-man.github.io/" target="_blank" rel="noopener">
+    <i class="fa-solid fa-globe"></i> Portfolio
+  </a>
 </div>
 
 

@@ -46,7 +46,7 @@ order: 1
   <!-- MLOps (AI) -->
   <details class="project-row" data-category="ai">
     <summary class="project-row__summary">
-      <img src="/assets/projects/three_models.png" alt="MLOps Pipeline for Chest X-Rays" class="project-row__image">
+      <img src="/assets/projects/mlops.jpeg" alt="MLOps Pipeline for Chest X-Rays" class="project-row__image">
       <div class="project-row__header">
         <h3 class="project-row__title">MLOps Pipeline for Chest X-Rays</h3>
         <div class="badge-row">
@@ -84,7 +84,7 @@ order: 1
   <!-- Soothify (AI) -->
   <details class="project-row" data-category="ai">
     <summary class="project-row__summary">
-      <img src="/assets/projects/chatbot.png" alt="Soothify" class="project-row__image">
+      <img src="/assets/projects/hume.gif" alt="Soothify" class="project-row__image">
       <div class="project-row__header">
         <h3 class="project-row__title">Soothify — AI Mental Health Companion</h3>
         <div class="badge-row">
@@ -114,7 +114,7 @@ order: 1
   <!-- PhishLearn (SWE) -->
   <details class="project-row" data-category="swe">
     <summary class="project-row__summary">
-      <img src="https://placehold.co/600x400?text=PhishLearn" alt="PhishLearn" class="project-row__image">
+      <img src="/assets/projects/phishlearn.png" alt="PhishLearn" class="project-row__image">
       <div class="project-row__header">
         <h3 class="project-row__title">PhishLearn — Enterprise Phishing Awareness Platform</h3>
         <div class="badge-row">
@@ -146,7 +146,7 @@ order: 1
   <!-- Git Issue Bot (SWE) -->
   <details class="project-row" data-category="swe">
     <summary class="project-row__summary">
-      <img src="https://placehold.co/600x400?text=Git+Issue+Bot" alt="Git Issue Bot" class="project-row__image">
+      <img src="/assets/projects/git_issue_bot.png" alt="Git Issue Bot" class="project-row__image">
       <div class="project-row__header">
         <h3 class="project-row__title">Git Issue Bot</h3>
         <div class="badge-row">
@@ -178,55 +178,4 @@ order: 1
 
 
 <!-- Filtering Script -->
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  // Filter bar
-  const bar = document.querySelector('.proj-filterbar');
-  if (!bar) return;
-
-  // Support both horizontal rows (.projects-list .project-row) and old grid (.projects-grid .project-tile)
-  const listContainers = [
-    ...document.querySelectorAll('.projects-list'),
-    ...document.querySelectorAll('.projects-grid')
-  ];
-
-  const getAllCards = () => ([
-    ...document.querySelectorAll('.projects-list .project-row'),
-    ...document.querySelectorAll('.projects-grid .project-tile')
-  ]);
-
-  // Event delegation for filter buttons
-  bar.addEventListener('click', (e) => {
-    const target = e.target;
-    if (!(target instanceof Element)) return;
-    const btn = target.closest('.pf-btn');
-    if (!btn) return;
-
-    // Active state
-    bar.querySelectorAll('.pf-btn').forEach(b => b.classList.remove('is-active'));
-    btn.classList.add('is-active');
-
-    const f = btn.dataset.filter || 'all';
-    const cards = getAllCards();
-
-    cards.forEach((card) => {
-      const cat = card.dataset.category;
-      const show = (f === 'all') || (cat === f);
-      if (!show && 'open' in card) card.open = false;  // close hidden <details>
-      card.style.display = show ? '' : 'none';
-    });
-  });
-
-  // One-open-at-a-time guard per container
-  listContainers.forEach((container) => {
-    container.querySelectorAll('details').forEach((d) => {
-      d.addEventListener('toggle', () => {
-        if (!d.open) return;
-        container.querySelectorAll('details[open]').forEach((other) => {
-          if (other !== d) other.open = false;
-        });
-      });
-    });
-  });
-});
-</script>
+<script src="{{ '/assets/js/project-filter.js' | relative_url }}"></script>
